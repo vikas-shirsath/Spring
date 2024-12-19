@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--    <bean id="alien1" class="org.vikas.Alien" ></bean> -->
+
+    <bean id="alien1" class="org.vikas.Alien" autowire="byName" >
+        <property name="age" value="21"/>
+        <property name="comp" >
+            <bean id="comp1" class="org.vikas.Laptop" primary="true"/>
+        </property>
+
+<!--        <property name="age" value="21"></property>-->
+<!--        <constructor-arg type="int" value="21"/>-->
+<!--        <constructor-arg type="org.vikas.Laptop" ref="lap1"/>-->
+<!--        <property name="lap" ref="lap1"/>-->
+
+<!--        <constructor-arg index="1" ref="lap1"/>-->
+<!--        <constructor-arg index="0" value="21"/>-->
+
+<!--        <constructor-arg name="age" value="21"/>-->
+<!--        <constructor-arg name="lap" ref="lap1"/>-->
+
+
+    </bean>
+
+<!--    <bean id="comp1" class="org.vikas.Laptop" primary="true"/>-->
+<!--    <bean id="comp2" class="org.vikas.Desktop" lazy-init="true"/>-->
+
+</beans>
