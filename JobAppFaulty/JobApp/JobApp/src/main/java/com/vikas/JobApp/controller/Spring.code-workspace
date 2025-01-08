@@ -1,0 +1,75 @@
+{
+	"folders": [
+		{
+			"name": "Spring",
+			"path": "../../../../../../../../../.."
+		},
+		{
+			"name": "E-Commerce Frontend",
+			"path": "../../../../../../../../../../../../../../study material/Spring/Spring/E-Commerce Frontend"
+		},
+		{
+			"name": "JobApp",
+			"path": "../../../../../../../../../../../../../../study material/Spring/Spring/JobApp"
+		},
+		{
+			"name": "JobAppFaulty",
+			"path": "../../../../../../../../../../../../../../study material/Spring/Spring/JobAppFaulty"
+		},
+		{
+			"name": "JOBPORTAL-1",
+			"path": "../../../../../../../../../../../../../../study material/Spring/Spring/JOBPORTAL-1"
+		},
+		{
+			"name": "Servlet",
+			"path": "../../../../../../../../../../../../../../study material/Spring/Spring/Servlet"
+		},
+		{
+			"name": "Spring Boot Web 1st project",
+			"path": "../../../../../../../../../../../../../../study material/Spring/Spring/Spring Boot Web 1st project"
+		},
+		{
+			"name": "Spring Web project",
+			"path": "../../../../../../../../../../../../../../study material/Spring/Spring/Spring Web project"
+		},
+		{
+			"name": "spring-boot-rest",
+			"path": "../../../../../../../../../../../../../../study material/Spring/Spring/spring-boot-rest"
+		},
+		{
+			"name": "spring-data-jpa-ex",
+			"path": "../../../../../../../../../../../../../../study material/Spring/Spring/spring-data-jpa-ex"
+		},
+		{
+			"name": "spring-data-rest-demo",
+			"path": "../../../../../../../../../../../../../../study material/Spring/Spring/spring-data-rest-demo"
+		},
+		{
+			"name": "SpringDemo",
+			"path": "../../../../../../../../../../../../../../study material/Spring/Spring/SpringDemo"
+		},
+		{
+			"name": "SpringEcom",
+			"path": "../../../../../../../../../../../../../../study material/Spring/Spring/SpringEcom"
+		},
+		{
+			"name": "SpringJDBC",
+			"path": "../../../../../../../../../../../../../../study material/Spring/Spring/SpringJDBC"
+		},
+		{
+			"name": "SpringMVCDemo",
+			"path": "../../../../../../../../../../../../../../study material/Spring/Spring/SpringMVCDemo"
+		},
+		{
+			"name": "spring-sec-demo",
+			"path": "../../../../../../../../../../../../../../study material/Spring/Spring/spring-sec-demo"
+		},
+		{
+			"name": "tomcat-server",
+			"path": "../../../../../../../../../../../../../../study material/Spring/Spring/tomcat-server"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
